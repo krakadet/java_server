@@ -1,0 +1,1 @@
+curl -d "@company.json" -X POST http://localhost:8080/save_company -H "Content-Type: application/json"
